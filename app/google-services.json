@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35514404976",
+    "project_id": "misnotasapp-73a78",
+    "storage_bucket": "misnotasapp-73a78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35514404976:android:94e503d0dea076089864b5",
+        "android_client_info": {
+          "package_name": "com.example.s10_mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa4L_Cy0Lje2GKcY13vPAWoUMfARRB298"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
